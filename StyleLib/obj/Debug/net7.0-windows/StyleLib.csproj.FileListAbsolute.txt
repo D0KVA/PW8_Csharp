@@ -1,0 +1,16 @@
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\bin\Debug\net7.0-windows\StyleLib.deps.json
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\bin\Debug\net7.0-windows\StyleLib.dll
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\bin\Debug\net7.0-windows\StyleLib.pdb
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\FullDictionary.baml
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\Themes\NekoTheme.baml
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\Themes\zxcTheme.baml
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\StyleLib_MarkupCompile.cache
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\StyleLib.g.resources
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\StyleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\StyleLib.AssemblyInfoInputs.cache
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\StyleLib.AssemblyInfo.cs
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\StyleLib.csproj.CoreCompileInputs.cache
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\StyleLib.dll
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\refint\StyleLib.dll
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\StyleLib.pdb
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\StyleLib\obj\Debug\net7.0-windows\ref\StyleLib.dll

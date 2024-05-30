@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\PW8_Csharp\\PW8_Csharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\PW8_Csharp\\PW8_Csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\PW8_Csharp\\PW8_Csharp.csproj",
+        "projectName": "PW8_Csharp",
+        "projectPath": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\PW8_Csharp\\PW8_Csharp.csproj",
+        "packagesPath": "C:\\Users\\lolik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\PW8_Csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lolik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\SerializeDeserializeLib\\SerializeDeserializeLib.csproj": {
+                "projectPath": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\SerializeDeserializeLib\\SerializeDeserializeLib.csproj"
+              },
+              "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\StyleLib\\StyleLib.csproj": {
+                "projectPath": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\StyleLib\\StyleLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\SerializeDeserializeLib\\SerializeDeserializeLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\SerializeDeserializeLib\\SerializeDeserializeLib.csproj",
+        "projectName": "SerializeDeserializeLib",
+        "projectPath": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\SerializeDeserializeLib\\SerializeDeserializeLib.csproj",
+        "packagesPath": "C:\\Users\\lolik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\SerializeDeserializeLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lolik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\StyleLib\\StyleLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\StyleLib\\StyleLib.csproj",
+        "projectName": "StyleLib",
+        "projectPath": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\StyleLib\\StyleLib.csproj",
+        "packagesPath": "C:\\Users\\lolik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lolik\\OneDrive\\Рабочий стол\\учёба\\Praktika\\LabWork5\\PW8_Csharp\\StyleLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lolik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

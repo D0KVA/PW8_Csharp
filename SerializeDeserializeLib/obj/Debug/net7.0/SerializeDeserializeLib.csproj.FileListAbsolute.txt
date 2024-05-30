@@ -1,0 +1,12 @@
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\bin\Debug\net7.0\SerializeDeserializeLib.deps.json
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\bin\Debug\net7.0\SerializeDeserializeLib.dll
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\bin\Debug\net7.0\SerializeDeserializeLib.pdb
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\SerializeDeserializeLib.csproj.AssemblyReference.cache
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\SerializeDeserializeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\SerializeDeserializeLib.AssemblyInfoInputs.cache
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\SerializeDeserializeLib.AssemblyInfo.cs
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\SerializeDeserializeLib.csproj.CoreCompileInputs.cache
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\SerializeDeserializeLib.dll
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\refint\SerializeDeserializeLib.dll
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\SerializeDeserializeLib.pdb
+C:\Users\lolik\OneDrive\Рабочий стол\учёба\Praktika\LabWork5\PW8_Csharp\SerializeDeserializeLib\obj\Debug\net7.0\ref\SerializeDeserializeLib.dll
